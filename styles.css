@@ -1,0 +1,151 @@
+.header {
+    padding: 1px;
+    text-align: center;
+    background: #6ad258;
+    color: white;
+    font-size: 20px;
+  }
+  h1{
+    font-family: 'Lato', sans-serif;
+  }
+
+  .cuadro{
+    margin-left: 430px;
+  }
+  label{
+    font-size:20px;
+    font-family:'Lato', sans-serif;
+  }
+  .button{
+   background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-left:463px;
+    margin-top:30px;
+  }
+  .slider-wrapper {
+    display: inline-block;
+    width: 20px;
+    height: 150px;
+    padding: 0;
+    margin-top:50px;
+  }
+  h2{
+    
+    font-family:'Lato', sans-serif;
+     margin-left:413px;;
+
+    
+  }
+  
+  .grid-container{
+    margin-left:463px;
+    margin-top:50px;
+    font-family:'Lato', sans-serif;
+  }
+  
+  .grid-item1 {
+   
+    display: grid;
+    row-gap: 60px;
+    width:20px;
+    height:20px;
+    background-color:#3498db;
+  
+    
+  }
+  .grid-item2 {
+    width:20px;
+    height:20px;
+    display: grid;
+    row-gap: 5px;
+    background-color:#2ecc71;
+  }
+  .grid-item3 {
+     width:20px;
+    height:20px;
+    display: grid;
+    row-gap: 5px;
+    background-color:#f1c40f;
+  }
+  .grid-item4 {
+     width:20px;
+    height:20px;
+    display: grid;
+    row-gap: 5px;
+    background-color:#c0392b;
+    
+  }
+  p{
+    margin-left:50px;
+    margin-top:-23px;
+  }
+  .range  {
+      position: absolute;
+      background-image: linear-gradient(to right, red, yellow, green);
+      background-repeat: repeat-x;
+      box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.15);
+      box-sizing: border-box;
+      border-radius: 4px;
+  }
+  
+  .cuadro1{
+   margin-top: 50px;
+  }
+  img{
+   width: 85px;
+   height: 95px;
+  }
+ .imgg{
+   margin-left: 430px;
+   width: 2300px;
+ }
+ .grid-container1{
+  display: flex;
+  justify-content: center;
+  margin-left: -52px;
+
+  padding: 0 auto;
+ }
+ .grid-item11{
+   width: 100px;
+   height: 10px;
+   background-color: #3498db;
+   
+   
+   
+  }
+  .grid-item12{
+    width: 100px;
+    height: 10px;
+    background-color: #07e907d3;
+  }
+  .grid-item13{
+    width: 100px;
+    height: 10px;
+    background-color: #edd903;}
+
+    .grid-item14{
+      width: 100px;
+      height: 10px;
+      background-color: #f80c0c;
+    }
+    
+    footer{
+    
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(5, 0, 0);
+    color: white;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
